@@ -5,7 +5,7 @@ This project builds a machine learning model to predict used car prices based on
 
 ---
 
-## Dataset
+## Dataset(https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data/data)
 - **Filename:** `vehicles.csv`
 - Contains over 350,000 listings with 26 columns including price, year, manufacturer, model, condition, and more.
 - The dataset has many missing values and a wide range of categories, requiring cleaning and preprocessing.
