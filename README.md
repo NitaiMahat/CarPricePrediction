@@ -61,6 +61,6 @@ This project builds a machine learning model to predict used car prices based on
 ---
 
 ## Contact
-For questions or contributions, please contact [Your Name or Email].
+For questions or contributions, please contact mahatnitai@gmail.com.
 
 
